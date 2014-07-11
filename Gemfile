@@ -1,3 +1,4 @@
+source 'https://code.stripe.com'
 source 'https://rubygems.org'
 
 ruby '2.1.2'
@@ -62,3 +63,5 @@ gem "figaro"
 
 gem 'devise'
 
+
+gem 'stripe'
